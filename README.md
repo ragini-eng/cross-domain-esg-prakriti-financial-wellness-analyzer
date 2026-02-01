@@ -83,11 +83,19 @@ This project was built to explore these questions by combining **behavioral cont
 ---
 
 ## 📈 Power BI Dashboard Highlights
-- Financial behavior patterns by **Prakriti type**
-- Distribution of **financial wellness scores**
-- Trends in **ESG-aligned spending and saving behavior**
 
-📌 Dashboard screenshots are included in the repository for reference.
+### 🔹 Financial Behavior by Prakriti Type
+![Prakriti Dashboard](Dashboard/esg_overview.png)
+
+### 🔹 Financial Wellness Score Distribution
+![Wellness Score Dashboard](Dashboard/financial_wellness.png)
+
+### 🔹 ESG-Aligned Spending and Saving Trends
+![ESG Dashboard](Dashboard/user_insights.png)
+
+### 🔹 Overall Financial Wellness Overview
+![Overview Dashboard](Dashboard/trends.png)
+
 
 ---
 
