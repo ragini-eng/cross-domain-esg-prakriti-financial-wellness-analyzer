@@ -60,4 +60,53 @@ This project was built to explore these questions by combining **behavioral cont
    - Translated qualitative behavioral traits into analytical features
    - Enabled personalized financial assessments
 
-5.
+5. **Financial Wellness Scoring**
+   - Designed a **rule-based scoring model**
+   - Evaluated stability, discipline, and sustainability indicators
+
+6. **ESG Alignment Analysis**
+   - Studied how financial behavior aligns with ESG principles
+   - Identified sustainability-conscious financial patterns
+
+7. **Dashboard Development**
+   - Built **Power BI dashboards** for clear and actionable insights
+   - Focused on usability and real-world interpretation
+
+---
+
+## 📊 Key Insights
+- Financial behavior differs significantly across **Prakriti profiles**
+- ESG-aligned habits are linked to better **long-term financial stability**
+- Behavioral context adds meaning that raw financial numbers alone cannot provide
+- Visual dashboards make insights easier for decision-makers to understand and use
+
+---
+
+## 📈 Power BI Dashboard Highlights
+- Financial behavior patterns by **Prakriti type**
+- Distribution of **financial wellness scores**
+- Trends in **ESG-aligned spending and saving behavior**
+
+📌 Dashboard screenshots are included in the repository for reference.
+
+---
+
+## 🚀 Future Enhancements
+- Machine learning–based personalized financial recommendations
+- Integration of real-time ESG and financial data
+- Deployment as a web-based financial analytics platform
+- Expansion to organization-level ESG financial wellness analysis
+
+---
+
+## ⭐ Why This Project Stands Out
+- Combines **finance, behavioral analytics, and ESG** in a practical framework
+- Demonstrates real-world use of **Python and Power BI**
+- Focuses on **actionable, business-relevant insights**
+- Structured and documented for **professional portfolio presentation**
+
+---
+
+## 👤 Author
+**Ragini Pawaiya**  
+Data Analytics | Python | ESG | Power BI
