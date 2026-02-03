@@ -1,6 +1,8 @@
 # 🌱 Cross-Domain ESG–Prakriti Financial Wellness Analyzer
 
-## 📌 About the Project
+---
+
+## 1. 📌 About the Project
 This project explores **financial wellness from a behavioral and sustainability-driven perspective** by integrating  
 **ESG principles (Environmental, Social, Governance)** with **Prakriti-based behavioral profiling**.
 
@@ -13,108 +15,162 @@ This project brings together **finance, behavioral analytics, ESG concepts, and 
 
 ---
 
-## 🎯 Why I Built This
+## 2. 🎯 Why I Built This Project
 Most financial wellness tools today follow a *one-size-fits-all* approach. They rarely answer deeper questions such as:
 
 - Why do people with similar incomes show very different financial outcomes?
-- How do behavioral patterns influence spending, saving, and risk-taking?
+- How do behavioral patterns influence spending, saving, and financial stability?
 - Are financial decisions aligned with long-term sustainability goals?
 - Can financial wellness analysis be both **personalized and responsible**?
 
-This project was built to explore these questions by combining **behavioral context and ESG thinking** with data analytics.
+This project was built to explore these questions by combining **behavioral context and ESG thinking** with structured data analytics.
 
 ---
 
-## 🧠 Project Objectives
-- Analyze financial behavior using **Python-based data analytics**
-- Incorporate **Prakriti-based behavioral traits** for personalization
-- Evaluate financial wellness through an **ESG-aware lens**
-- Design a clear and interpretable **financial wellness scoring framework**
-- Communicate insights using **interactive Power BI dashboards**
+## 3. 🧠 Project Objectives
+1. Analyze financial behavior using **Python-based data analytics**  
+2. Incorporate **Prakriti-based behavioral traits** for personalization  
+3. Evaluate financial wellness through an **ESG-aware lens**  
+4. Design a clear and interpretable **financial wellness scoring framework**  
+5. Communicate insights using **interactive Power BI dashboards**  
 
 ---
 
-## 🛠 Tools & Technologies
-- **Python** – Core data analysis and logic
-- **Pandas & NumPy** – Data cleaning, transformation, and computation
-- **Power BI** – Interactive dashboards and insight storytelling
-- **Jupyter Notebook** – Step-by-step analysis and documentation
-- **Data Visualization** – Converting insights into understandable visuals
+## 4. 🛠 Tools & Technologies
+- **Python** – Core analysis and scoring logic  
+- **Pandas & NumPy** – Data cleaning, transformation, and calculations  
+- **Jupyter Notebook** – Step-by-step analysis and documentation  
+- **Power BI** – Interactive dashboards and storytelling  
+- **Data Visualization** – Translating data into insights  
 
 ---
 
-## 🔄 Project Workflow
-1. **Problem Understanding**
-   - Identified limitations of traditional financial wellness models
-   - Defined the role of ESG and behavioral integration
+## 5. 🔄 Project Workflow
+1. **Problem Understanding**  
+   - Identified limitations of traditional financial wellness models  
+   - Defined the role of ESG and behavioral integration  
 
-2. **Data Preparation**
-   - Organized financial and behavioral datasets
-   - Cleaned and processed data using Pandas and NumPy
+2. **Data Preparation**  
+   - Organized financial and behavioral datasets  
+   - Cleaned and processed data using Pandas and NumPy  
 
-3. **Exploratory Data Analysis (EDA)**
-   - Analyzed income, expenses, savings, and spending behavior
-   - Compared financial patterns across different **Prakriti profiles**
+3. **Exploratory Data Analysis (EDA)**  
+   - Studied income, expenses, savings, and spending behavior  
+   - Compared patterns across different **Prakriti profiles**  
 
-4. **Prakriti-Based Feature Engineering**
-   - Translated qualitative behavioral traits into analytical features
-   - Enabled personalized financial assessments
+4. **Prakriti-Based Feature Engineering**  
+   - Converted qualitative behavioral traits into numerical indicators  
+   - Enabled personalized financial assessment  
 
-5. **Financial Wellness Scoring**
-   - Designed a **rule-based scoring model**
-   - Evaluated stability, discipline, and sustainability indicators
+5. **Financial Wellness Scoring**  
+   - Designed a **rule-based, explainable scoring model**  
+   - Combined behavior, lifestyle, and sustainability indicators  
 
-6. **ESG Alignment Analysis**
-   - Studied how financial behavior aligns with ESG principles
-   - Identified sustainability-conscious financial patterns
+6. **ESG Alignment Analysis**  
+   - Evaluated how financial behavior aligns with ESG principles  
+   - Identified sustainability-driven financial patterns  
 
-7. **Dashboard Development**
-   - Built **Power BI dashboards** for clear and actionable insights
-   - Focused on usability and real-world interpretation
-
----
-
-## 📊 Key Insights
-- Financial behavior differs significantly across **Prakriti profiles**
-- ESG-aligned habits are linked to better **long-term financial stability**
-- Behavioral context adds meaning that raw financial numbers alone cannot provide
-- Visual dashboards make insights easier for decision-makers to understand and use
+7. **Dashboard Development**  
+   - Built **Power BI dashboards** for business-friendly insights  
+   - Focused on clarity, usability, and interpretation  
 
 ---
 
-## 📈 Power BI Dashboard Highlights
+## 6. 🧮 Financial Wellness Scoring – How It Works
+The financial wellness score is designed to be **simple, transparent, and interpretable**.
+
+It combines three core components:  
+1. **Behavioral Stability (Prakriti-based)**  
+2. **Lifestyle Discipline** (sleep, meditation, activity indicators)  
+3. **Sustainability Awareness** (ESG-related behavior)  
+
+Each component contributes a fixed weight to the final score.  
+The goal is **meaningful assessment**, not black-box prediction — making the model suitable for real-world financial and ESG-focused use cases.
+
+---
+
+## 7. 📊 Key Insights
+- Financial behavior varies significantly across **Prakriti profiles**  
+- ESG-aligned habits are associated with better **long-term financial stability**  
+- Behavioral context adds depth beyond traditional financial metrics  
+- Visual dashboards help decision-makers quickly understand patterns  
+
+---
+
+## 8. 💼 Business Impact
+This project demonstrates how financial institutions, fintech platforms, and wellness-focused organizations can:  
+
+- Improve personalization of financial advisory services  
+- Identify behavior-driven financial risks early  
+- Align consumer behavior with ESG and sustainability goals  
+- Design targeted interventions for long-term financial health  
+
+The scoring framework acts as a **decision-support layer**, making it practical for regulated and ESG-focused environments.
+
+---
+
+## 9. 📈 Power BI Dashboard Highlights
 
 ### ESG Overview Dashboard
-![Prakriti Dashboard](Dashboard/esg_overview.png)
+![ESG Overview](Dashboard/esg_overview.png)
 
 ### Financial Wellness Dashboard
-![Wellness Score Dashboard](Dashboard/financial_wellness.png)
+![Financial Wellness](Dashboard/financial_wellness.png)
 
 ### User Insights Dashboard
-![ESG Dashboard](Dashboard/user_insights.png)
+![User Insights](Dashboard/user_insights.png)
 
 ### Trends Dashboard
-![Overview Dashboard](Dashboard/trends.png)
-
-
----
-
-## 🚀 Future Enhancements
-- Machine learning–based personalized financial recommendations
-- Integration of real-time ESG and financial data
-- Deployment as a web-based financial analytics platform
-- Expansion to organization-level ESG financial wellness analysis
+![Trends](Dashboard/trends.png)
 
 ---
 
-## ⭐ Why This Project Stands Out
-- Combines **finance, behavioral analytics, and ESG** in a practical framework
-- Demonstrates real-world use of **Python and Power BI**
-- Focuses on **actionable, business-relevant insights**
-- Structured and documented for **professional portfolio presentation**
+## 10. 📂 Repository Structure
+- `data/` – Cleaned and curated datasets used for analysis  
+- `notebooks/` – Step-by-step EDA and scoring notebooks  
+- `src/` – Reusable Python modules (scoring logic and metrics)  
+- `Dashboard/` – Power BI dashboard screenshots  
+- `reports/` – Executive-level summaries and insights  
 
 ---
 
-## 👤 Author
+## 11. ▶️ How to Explore This Project
+1. Start with `01_problem_definition_and_eda.ipynb`  
+2. Review the scoring logic in `02_prakriti_scoring_model.ipynb`  
+3. Explore insights using the Power BI dashboards  
+4. Refer to the reports folder for high-level findings  
+
+---
+
+## 12. 🚀 Future Enhancements
+- Machine learning–based personalized recommendations  
+- Integration of real-time financial and ESG data  
+- Deployment as a web-based analytics platform  
+- Expansion to organization-level ESG financial wellness analysis  
+
+---
+
+## 13. ⭐ Why This Project Stands Out
+- Combines **finance, behavioral analytics, and ESG** in a single framework  
+- Demonstrates real-world use of **Python and Power BI**  
+- Focuses on **explainability and business relevance**  
+- Structured as a **professional portfolio project**, not a tutorial  
+
+---
+
+## 14. 🎯 Who This Project Is For
+- Data Analyst roles in fintech and financial services  
+- Business Analyst roles focused on ESG and sustainability  
+- Analytics teams working on consumer behavior and wellness  
+- Organizations exploring responsible finance models  
+
+---
+
+## 15. 👤 Author
 **Ragini Pawaiya**  
-Data Analytics | Python | ESG | Power BI
+Aspiring Data Analyst | Python | Power BI | ESG & Behavioral Analytics  
+
+This project is part of my data analytics portfolio, focused on solving real-world problems using data-driven insights.
+
+
+
