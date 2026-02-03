@@ -15,6 +15,16 @@ This project brings together **finance, behavioral analytics, ESG concepts, and 
 
 ---
 
+## ⚡ Project Snapshot
+
+- **Domain:** Financial Analytics, ESG, Behavioral Analytics  
+- **Role:** Data Analyst  
+- **Skills Used:** Python, Pandas, NumPy, Power BI, Data Modeling, EDA  
+- **Output:** Financial wellness scoring model + interactive dashboards  
+- **Business Use:** Personalized finance, ESG-driven decision support
+
+---
+
 ## 2. 🎯 Why I Built This Project
 Most financial wellness tools today follow a *one-size-fits-all* approach. They rarely answer deeper questions such as:
 
