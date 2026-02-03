@@ -144,11 +144,13 @@ The scoring framework acts as a **decision-support layer**, making it practical 
 
 ---
 
-## 11. ▶️ How to Explore This Project
-1. Start with `01_problem_definition_and_eda.ipynb`  
-2. Review the scoring logic in `02_prakriti_scoring_model.ipynb`  
-3. Explore insights using the Power BI dashboards  
-4. Refer to the reports folder for high-level findings  
+## How to Review This Project (For Recruiters)
+
+1. Start with README.md for context  
+2. Open notebooks/01_problem_definition_and_eda.ipynb  
+3. Review scoring logic in notebooks/02_prakriti_scoring_model.ipynb  
+4. Check Power BI dashboards for insights  
+5. Review src/ folder for clean, reusable logic
 
 ---
 
