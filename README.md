@@ -1,7 +1,4 @@
-📌 A real-world data analytics project combining ESG, behavioral analytics, and financial wellness using Python and Power BI.
-
----
-                                                                                                  # 🌱 Cross-Domain ESG–Prakriti Financial Wellness Analyzer
+# 🌱 Cross-Domain ESG–Prakriti Financial Wellness Analyzer
 
 ---
 
