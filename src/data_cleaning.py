@@ -50,7 +50,7 @@ for df in [finance_df, esg_df]:
 
 print("Data types fixed!")
 
-# Remove Outliers (example for income)
+# Remove Outliers 
 if "income" in finance_df.columns:
     upper_limit = finance_df["income"].quantile(0.99)
     finance_df = finance_df[finance_df["income"] <= upper_limit]
